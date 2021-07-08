@@ -1,0 +1,93 @@
+body{
+     padding: 0;
+     margin: 0;
+     
+}
+.cointainer{
+     height:98vh;
+}
+.mainDiv{
+     height: 92vh;
+     background-image:  url("hall.jpg");
+     background-repeat: no-repeat;
+     background-size:100% 100%;
+     
+}
+.covid{
+     background-color:black;
+     color: aliceblue;
+     width: 100% 100%;
+     padding: 20px;
+     text-align: center;
+}
+.switchtohostingMain{
+     display: flex;
+     justify-content: flex-end;
+     margin:0px 20px 0 20px;
+}
+.btn{
+     border-radius: 20px;
+     padding: 5px 10px 5px 10px;
+     font-size: 15px;
+     margin-top: 5px;
+}
+.switch{
+     padding: 10px;
+}
+.placetostay{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.maincontainerforFiveDiv{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 50%;
+     margin: auto;
+     background-color: rgb(255, 255, 255);
+     border-radius: 50px;
+     padding: 5px ;
+}
+.inside{
+     padding: 0px 30px 0px 30px;
+     border-right: 2px solid rgb(0, 0, 0);
+}
+/* .location{
+
+}
+
+.Checkin{
+
+}
+
+.Checkout{
+
+}
+
+.Guest{
+
+} */
+
+.search{
+     background-color: blue;
+     padding: 10px;
+     font-size: 15px;
+     color: #fff;
+     border-radius: 50%;
+     margin-left:auto;
+     outline: none;
+     float: right;
+}
+
+.GoNear{
+     margin-left: 150px;
+     font-size: 30px;
+}
+.explore{
+     background-color: rgb(255, 255, 255);
+     padding: 10px;
+     border-radius: 20px;
+     border:none;
+}
